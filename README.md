@@ -227,53 +227,6 @@ sentinel-harness/
 
 ---
 
-## 🎓 How to Talk About This (For 20 Minutes Straight)
-
-### Part 1: The "Why" (5 min)
-- Start with real infrastructure breaches (AIIMS, CBSE, power grids)
-- Explain the dependency nightmare: 10,000+ packages per app
-- Show the cost impact: $2.4M per breach
-
-### Part 2: The "How" (10 min)
-- Walk through Codebreaker's AST → SBOM → CVE pipeline
-- Explain Graph AI for attack path mapping
-- Deep dive into Autopsy's decision tracing & self-correction
-- Show before/after metrics (MTTD/MTTR)
-
-### Part 3: The "So What" (5 min)
-- National impact: Protecting critical infrastructure at scale
-- Business case: 98% cost savings, 99% faster response
-- Innovation: Multi-agent self-healing AI without human intervention
-
----
-
-## 🤝 Contributing
-
-We welcome security researchers, AI/ML engineers, and infrastructure specialists.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file for details.
-
----
-
-## 📧 Contact & Support
-
-- **Team:** [Hackathon Team Name]
-- **Email:** your-email@hackathon.com
-- **Slack/Discord:** [Link]
-- **Documentation:** [Wiki](https://github.com/yourusername/sentinel-harness/wiki)
-
----
-
 ## 🏆 Hackathon Submission Details
 
 **Problem Statement:** 7 — AI-Driven Cyber Resilience for Critical National Infrastructure  
